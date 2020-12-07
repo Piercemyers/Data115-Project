@@ -10,6 +10,6 @@ For my data source I went to StockX which is an online marketplace for buying an
  To process the data I didn't have to do much. I converted the Sale Price and the Retail Price to remove the dollar sign so I could work with numbers in my jupyter notebook. Other than that I just broke up the data in my analysis by column to work with indiviual columns of data such as 'Sale Price', and created new data frames for each yeezy. Also, I had to covert date times so I could that they were friendly to work with on jupyter notebook I did this via pd.to_datetime(df['column of data']).
  
  ### Visualization 
- 
+ ![figure1data115](https://user-images.githubusercontent.com/63420549/101312535-daff7280-3808-11eb-9ad2-38760546a15f.png)
  
  
